@@ -1,0 +1,11 @@
+export const FRONT_DICTIONARY = [
+  "FRONT",
+  "REACT",
+  "NEXT",
+  "ANGULAR",
+  "VUE",
+  "JAVASCRIPT",
+  "TYPESCRIPT",
+];
+
+export const REMOTE_DICTIONARY = ["REMOTE", "TELETRAVAIL", "TÉLÉTRAVAIL"];
